@@ -1,9 +1,9 @@
 ﻿using System;
 namespace GuitarStoreWebApp.Models
 {
-	public class Pickups
+	public class Pickup
 	{
-		public Pickups()
+		public Pickup()
 		{
 		}
 

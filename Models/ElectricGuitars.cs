@@ -23,7 +23,7 @@ namespace GuitarStoreWebApp.Models
 		public byte[] Image { get; set; }
 
 		public IEnumerable<Brand> BrandsList { get; set; }
-        public IEnumerable<Pickups> PickupsList { get; set; }
+        public IEnumerable<Pickup> PickupsList { get; set; }
         public IEnumerable<BodyStyle> BodyStyleList { get; set; }
     }
 }
